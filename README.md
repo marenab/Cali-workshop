@@ -1,4 +1,6 @@
-# Cali-workshop http://bit.ly/MapboxStanford
+# Cali-workshop 
+
+## http://bit.ly/MapboxStanford
 
 Intro to Mapbox Studio: https://docs.google.com/document/d/1bgzKwFP9LsX6KzwPu6OjMSetuKWEExF8kvPnBVrM-J0/
 
